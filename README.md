@@ -1,6 +1,6 @@
 ### 👋 Olá, Bem vindo! 
 <hr>
-👨‍💻 Sou o Kaic cesar, graduando em Engenharia de Software e aprendendo desenvolvimento iOS.
+👨‍💻 Sou o Kaic Cesar, estou graduando em Engenharia de Software e aprendendo desenvolvimento iOS.
 
 
 <div style="display: inline_block"><br>
